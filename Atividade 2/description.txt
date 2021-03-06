@@ -1,0 +1,3 @@
+Criar uma aplicação para calcular e mostrar o peso ideal de uma pessoa;
+A Fórmula para cálculo do peso é: Para Homens: (72.7 x Altura) - 58,
+Para Mulheres: (62.1 x Altura) - 44.7;
