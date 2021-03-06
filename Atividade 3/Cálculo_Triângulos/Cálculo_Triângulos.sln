@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo_Triângulos", "Cálculo_Triângulos\Cálculo_Triângulos.csproj", "{6CB27538-07F0-45D8-AC08-DF629D22224A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB27538-07F0-45D8-AC08-DF629D22224A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB27538-07F0-45D8-AC08-DF629D22224A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB27538-07F0-45D8-AC08-DF629D22224A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB27538-07F0-45D8-AC08-DF629D22224A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28F9FA3-9547-4A43-B9D4-F781085A6199}
+	EndGlobalSection
+EndGlobal

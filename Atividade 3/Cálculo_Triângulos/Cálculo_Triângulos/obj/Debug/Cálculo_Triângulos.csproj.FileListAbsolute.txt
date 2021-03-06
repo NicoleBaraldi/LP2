@@ -1,0 +1,10 @@
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\bin\Debug\Cálculo_Triângulos.exe.config
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\bin\Debug\Cálculo_Triângulos.exe
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\bin\Debug\Cálculo_Triângulos.pdb
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\obj\Debug\Cálculo_Triângulos.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\obj\Debug\Cálculo_Triângulos.Calculo_Triangulo.resources
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\obj\Debug\Cálculo_Triângulos.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\obj\Debug\Cálculo_Triângulos.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\obj\Debug\Cálculo_Triângulos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\obj\Debug\Cálculo_Triângulos.exe
+C:\Users\Administrador\Desktop\Cálculo_Triângulos\Cálculo_Triângulos\obj\Debug\Cálculo_Triângulos.pdb
