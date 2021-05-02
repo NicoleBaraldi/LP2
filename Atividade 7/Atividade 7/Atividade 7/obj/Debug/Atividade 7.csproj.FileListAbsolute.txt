@@ -1,0 +1,28 @@
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe.config
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\bin\Debug\Atividade 7.pdb
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csprojAssemblyReference.cache
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form1.resources
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade_7.FrmExercicio1.resources
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade_7.FrmExercicio2.resources
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade_7.FrmExercicio3.resources
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade_7.FrmExercicio4.resources
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Properties.Resources.resources
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.GenerateResource.cache
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.CoreCompileInputs.cache
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade 7.exe
+E:\Nikk\Linguagem de Programação II\Atividade 7\Atividade 7\obj\Debug\Atividade 7.pdb
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form1.resources
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade_7.FrmExercicio1.resources
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade_7.FrmExercicio2.resources
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade_7.FrmExercicio3.resources
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade_7.FrmExercicio4.resources
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Properties.Resources.resources
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade 7.exe
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\obj\Debug\Atividade 7.pdb
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe.config
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe
+C:\Users\Administrador\Desktop\LP2\Atividade 7\Atividade 7\bin\Debug\Atividade 7.pdb
